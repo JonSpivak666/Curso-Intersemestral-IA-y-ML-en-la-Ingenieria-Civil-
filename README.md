@@ -6,8 +6,10 @@ Notas del curso Intersemestral impartido en Fes Aragon UNAM
 
 ## Introducción
 
-Capacitar a los participantes en el uso de herramientas de inteligencia artificial y machine learning aplicadas a problemas específicos de la ingeniería civil. El curso se enfocará en implementar modelos prácticos para optimización estructural, análisis geotécnico, monitoreo de infraestructuras y simulaciones, utilizando entornos interactivos como Google Colab y Jupyter Notebook.
 <img width="622" alt="4" src="https://github.com/user-attachments/assets/78ecab1c-cc89-411d-87c9-ad003b92b374" />
+
+Capacitar a los participantes en el uso de herramientas de inteligencia artificial y machine learning aplicadas a problemas específicos de la ingeniería civil. El curso se enfocará en implementar modelos prácticos para optimización estructural, análisis geotécnico, monitoreo de infraestructuras y simulaciones, utilizando entornos interactivos como Google Colab y Jupyter Notebook.
+
 
 ### **Objetivos Específicos**
 
@@ -18,4 +20,4 @@ Capacitar a los participantes en el uso de herramientas de inteligencia artifici
 
 Un poco mas de Notas en Notion: https://spivak666.notion.site/Notas-Intersemestral-17c4aa45bffb80daaf2de7a220cf2338?pvs=4
 <img width="449" alt="2" src="https://github.com/user-attachments/assets/16b437e9-1caa-41e7-b75a-de38d4489575" />
-<img width="449" alt="2" src="https://github.com/user-attachments/assets/12a94ec0-5200-40fe-93af-24b1493000a1" />
+
